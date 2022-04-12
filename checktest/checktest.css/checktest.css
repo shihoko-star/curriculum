@@ -54,7 +54,16 @@
     height: 100px;
     background-color: #d98d30;
 }
-
+.right-upper2{
+    width: 150px;
+    height: 50px;
+    background-color: #8c2727;
+}
+.right-inner2{
+    width: 150px;
+    height: 100px;
+    background-color: #ff9e6b;
+}
 
 
 *{
